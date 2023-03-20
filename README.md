@@ -4,16 +4,16 @@
   
   ### Skills
   
-  ####1- HTML 
-  ####2- CSS
-  ####3- JavaScript
-  ####4- React
-  ####5- Redux
-  ####6- Material-UI (MUI)
-  ####7- TypeScript
-  ####8- Node.js
-  ####9- Express
-  ####10- MongoDB
+ ####1- HTML 
+ ####2- CSS
+ ####3- JavaScript
+ ####4- React
+ ####5- Redux
+ ####6- Material-UI (MUI)
+ ####7- TypeScript
+ ####8- Node.js
+ ####9- Express
+ ####10- MongoDB
  
   ## Contact
   If you have any questions or collaboration opportunities, feel free to reach out to me on 
