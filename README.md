@@ -1,11 +1,10 @@
 # 💫 About Me:
 
 🤩 A Frontend Web Developer<br>⚡ Currently learning: Nodejs, Express, Mongodb<br>🌱 Always learning new techs<br>
-<div style={{display:"flex",alignItems:"center"}}>
-   📫 Reach me at mahmoudabbamalik@gmail.com  Or <a href="https://www.linkedin.com/in/Mahmoud-Mohamed-Abdel-Aal">
-   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
-  </div>
+<div style="display: flex; align-items: center;">
+   📫 Reach me at mahmoudabbamalik@gmail.com  Or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mahmoud-Mohamed-Abdel-Aal)
+</div>
+
 
 # 💻 SKILLS:
 
