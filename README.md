@@ -3,7 +3,7 @@
 🤩 A Frontend Web Developer<br>⚡ Currently learning: Nodejs, Express, Mongodb<br>🌱 Always learning new techs<br>
 <div style="display: flex; align-items: center;">
    📫 Reach me at mahmoudabbamalik@gmail.com  Or <a href="https://www.linkedin.com/in/Mahmoud-Mohamed-Abdel-Aal">
-      <img src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png"/>
+      <img src="https://w7.pngwing.com/pngs/602/665/png-transparent-in-icon-social-media-linkedin-computer-icons-linkedin-blue-text-trademark-thumbnail.png" style="width:"30px"; height:"30px;"/>
    </a>
 </div>
 
