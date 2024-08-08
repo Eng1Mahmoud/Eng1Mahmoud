@@ -28,10 +28,9 @@ Mahmoud </a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,figma,github,html,js,md,materialui,nginx,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,git,nodejs,express,mongodb,figma,github,md,nginx,postman,vscode,&perline=14" />
   </a>
 </p>
-
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
