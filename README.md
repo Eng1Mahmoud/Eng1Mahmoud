@@ -14,7 +14,7 @@ Mahmoud </a></h1>
 
 - 📫 How to reach me **mahmoudabbamalik@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf](https://drive.google.com/file/d/1YS19YLzfdusys_EjiytjWiGf_AkHKYTT/view?usp=drive_link)" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1YS19YLzfdusys_EjiytjWiGf_AkHKYTT/view?usp=drive_link](https://drive.google.com/file/d/1YS19YLzfdusys_EjiytjWiGf_AkHKYTT/view?usp=drive_link)" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
