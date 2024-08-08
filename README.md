@@ -28,7 +28,7 @@ Mahmoud </a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,git,nodejs,express,mongodb,figma,github,md,nginx,postman,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,git,nodejs,express,mongodb,figma,github,postman,vscode,&perline=14" />
   </a>
 </p>
 
