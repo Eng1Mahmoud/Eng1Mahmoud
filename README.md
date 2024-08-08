@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.devmahmoud.tech/" target="blank">
 Mahmoud </a></h1>
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="https://github.com/directrent-com" target="blank">Directrent</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on a Web App(React-Next)
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Nextjs - React 19 
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly make some Videos in my field on my YouTube channel and LinkedIn account  [https://www.youtube.com/@WebTriks](https://www.youtube.com/@WebTriks)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Reactjs & NextJs & Typescript & Javascript**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **mahmoudabbamalik@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
