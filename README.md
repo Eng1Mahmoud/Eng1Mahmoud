@@ -9,7 +9,7 @@ Mahmoud </a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Nextjs - React 19 
+- 🌱 I’m currently learning Nextjs 15 - React 19 
 
 - 📝 I regularly make some Videos in my field on my YouTube channel and LinkedIn account  [https://www.youtube.com/@WebTriks](https://www.youtube.com/@WebTriks)
 
