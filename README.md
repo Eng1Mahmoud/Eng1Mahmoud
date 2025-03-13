@@ -3,7 +3,7 @@ Mahmoud </a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-- 🔭 I’m currently working in <a href="https://github.com/directrent-com" target="blank">Directrent</a>
+- 🔭 I’m currently working in <a href="https://github.com/directrent-com" target="blank">Directrent</a> and <a href="https://github.com/Tele-Shield" target="blank">Tele-Shield</a>
 
 - 🌱 I’m currently Working on a Web App(React-Next)
 
