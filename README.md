@@ -3,13 +3,11 @@ Mahmoud </a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-- 🔭 I’m currently working in <a href="https://github.com/directrent-com" target="blank">Directrent</a> and <a href="https://github.com/Tele-Shield" target="blank">Tele-Shield</a>
+- 🔭 I’m currently Open To Work 
 
-- 🌱 I’m currently Working on a Web App(React-Next)
+- 🌱 I’m currently Learn Algorithms ,    Data-Structures , proplem solving and   Vue Framework 
 
 - 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning new in Nextjs 15 - React 19 and Backend (express.js Nestj.s) 
 
 - 📝 I regularly make some Videos in my field on my YouTube channel and LinkedIn account  [https://www.youtube.com/@WebTriks](https://www.youtube.com/@WebTriks)
 
