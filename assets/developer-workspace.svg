@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="320" viewBox="0 0 380 320" fill="none">
+  <title>Building connected web applications with AI</title>
+  <desc>Original illustration of a developer workspace with a web interface, API connections, database, and AI tools.</desc>
+  <defs>
+    <linearGradient id="screen" x1="90" y1="62" x2="288" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#203659"/><stop offset="1" stop-color="#102039"/></linearGradient>
+    <linearGradient id="base" x1="60" y1="205" x2="290" y2="292" gradientUnits="userSpaceOnUse"><stop stop-color="#cbd5e1"/><stop offset="1" stop-color="#94a3b8"/></linearGradient>
+  </defs>
+  <ellipse cx="196" cy="271" rx="148" ry="27" fill="#eaf1f8"/>
+  <path d="M44 161C44 94 90 36 168 35c80-1 150 47 161 126 11 80-58 118-133 112S44 232 44 161Z" fill="#f1f6fc"/>
+  <g stroke="#afc3d8" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"><path d="M78 95 48 114v77l32 18"/><path d="m292 110 42 27v70l-46 23"/><path d="M210 43v30"/></g>
+  <g transform="translate(76 64)">
+    <path d="M0 19 204 0v155L0 177Z" fill="#94a3b8"/>
+    <path d="m6 23 192-18v142L6 168Z" fill="url(#screen)"/>
+    <path d="m6 23 192-18v22L6 45Z" fill="#304564"/>
+    <g fill="#7c91ad"><circle cx="18" cy="32" r="2.5"/><circle cx="28" cy="31" r="2.5"/><circle cx="38" cy="30" r="2.5"/></g>
+    <path d="m20 65 63-6M20 79l43-4M20 93l57-5" stroke="#5f789a" stroke-width="4" stroke-linecap="round"/>
+    <path d="m22 121 12-12-12-9m36-3 13 9-13 13m-17 4 9-27" stroke="#5eead4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m104 52 79-8v43l-79 8Z" fill="#dceaf7"/>
+    <path d="m113 62 21-2v21l-21 2Z" fill="#2dd4bf"/><path d="m143 60 29-3m-29 11 22-2m-22 11 29-3" stroke="#7b90ab" stroke-width="3" stroke-linecap="round"/>
+    <path d="m104 105 79-8v30l-79 8Z" fill="#314966"/>
+    <path d="m114 118 12-1 7-7 9 12 9-10 22-2" stroke="#a5b4fc" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="m0 177-38 26 202 30 62-36-22-42Z" fill="url(#base)"/>
+    <path d="m-38 203 202 30 62-36v7l-62 37-202-31Z" fill="#7b91ad"/>
+    <path d="m19 180 157-17 18 23-157 21Z" fill="#607693"/>
+    <g stroke="#b3c4d7" stroke-width="1.3"><path d="m34 179 17 24m5-27 17 24m5-26 17 24m5-26 17 24m5-27 17 24m5-26 17 24m5-26 17 24"/><path d="m25 187 157-18m-151 26 157-19"/></g>
+    <path d="m81 211 44-6 11 9-44 7Z" fill="#bac8d7"/>
+  </g>
+  <g transform="translate(285 54)"><rect width="57" height="52" rx="12" fill="#e4ddff"/><rect x="6" y="6" width="45" height="40" rx="8" fill="#7661cf"/><path d="m28 14 3 9 9 3-9 3-3 9-3-9-9-3 9-3Z" fill="white"/><path d="m42 10 1.5 4.5L48 16l-4.5 1.5L42 22l-1.5-4.5L36 16l4.5-1.5Z" fill="#d8ceff"/></g>
+  <g transform="translate(19 124)"><rect width="61" height="48" rx="11" fill="#d7f3ef"/><text x="30" y="30" text-anchor="middle" fill="#0f766e" font-family="Arial,sans-serif" font-size="17" font-weight="700">API</text></g>
+  <g transform="translate(304 191)"><ellipse cx="23" cy="9" rx="23" ry="9" fill="#5d83b6"/><path d="M0 9v33c0 5 10 9 23 9s23-4 23-9V9c0 5-10 9-23 9S0 14 0 9Z" fill="#7398c8"/><path d="M0 23c0 5 10 9 23 9s23-4 23-9M0 35c0 5 10 9 23 9s23-4 23-9" stroke="#c4d9f0" stroke-width="1.5"/></g>
+  <circle cx="47" cy="67" r="5" fill="#2dd4bf"/><circle cx="337" cy="167" r="4" fill="#a5b4fc"/><path d="M139 35v10m-5-5h10" stroke="#9bb3d0" stroke-width="2" stroke-linecap="round"/>
+</svg>
