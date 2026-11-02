@@ -25,21 +25,96 @@ I'm a **Software Engineer specializing in full-stack web development**, with **3
 
 ### 🔨 Languages and tools
 
+**Languages & frontend**
+
 <p>
+  <img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="42" height="42" />&nbsp;&nbsp;
   <img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="42" height="42" />&nbsp;&nbsp;
   <img src="./assets/icons/react.svg" alt="React" title="React" width="42" height="42" />&nbsp;&nbsp;
   <img src="./assets/icons/nextjs.svg" alt="Next.js" title="Next.js" width="42" height="42" />&nbsp;&nbsp;
-  <img src="./assets/icons/vuejs.svg" alt="Vue.js" title="Vue.js" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/vuejs.svg" alt="Vue 3" title="Vue 3" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/shadcn.svg" alt="shadcn/ui" title="shadcn/ui" width="42" height="42" />
+  <br/>
+  <sub>JavaScript · TypeScript · React · Next.js (App Router, Server Actions) · Vue 3 · Tailwind CSS · shadcn/ui</sub>
+</p>
+
+**State, forms & validation**
+
+<p>
+  <img src="./assets/icons/tanstack.svg" alt="TanStack Query and TanStack Table" title="TanStack Query and TanStack Table" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/redux.svg" alt="Redux Toolkit" title="Redux Toolkit" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/zustand.svg" alt="Zustand" title="Zustand" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/pinia.svg" alt="Pinia" title="Pinia" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/reacthookform.svg" alt="React Hook Form" title="React Hook Form" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/zod.svg" alt="Zod" title="Zod" width="42" height="42" />
+  <br/>
+  <sub>TanStack Query · TanStack Table · Redux Toolkit · Zustand · Pinia · React Hook Form · Zod</sub>
+</p>
+
+**Backend & databases**
+
+<p>
   <img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="42" height="42" />&nbsp;&nbsp;
   <img src="./assets/icons/express.svg" alt="Express" title="Express" width="42" height="42" />&nbsp;&nbsp;
   <img src="./assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/prisma.svg" alt="Prisma and Prisma Migrate" title="Prisma and Prisma Migrate" width="42" height="42" />&nbsp;&nbsp;
   <img src="./assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="42" height="42" />&nbsp;&nbsp;
-  <img src="./assets/icons/docker.svg" alt="Docker" title="Docker" width="42" height="42" />&nbsp;&nbsp;
-  <img src="./assets/icons/git.svg" alt="Git" title="Git" width="42" height="42" />
+  <img src="./assets/icons/socketio.svg" alt="Socket.IO" title="Socket.IO" width="42" height="42" />
+  <br/>
+  <sub>Node.js · Express · PostgreSQL · Prisma · Prisma Migrate · MongoDB · Socket.IO</sub>
 </p>
 
-**Also work with:** Tailwind CSS · TanStack Query · Redux Toolkit · Zustand · Prisma · Socket.IO  
-**AI integration:** Vercel AI SDK · Google Gemini
+**DevOps & deployment**
+
+<p>
+  <img src="./assets/icons/docker.svg" alt="Docker and Docker Compose" title="Docker and Docker Compose" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/git.svg" alt="Git" title="Git" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/github.svg" alt="GitHub" title="GitHub" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/cicd.svg" alt="CI/CD" title="CI/CD" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/vercel.svg" alt="Vercel" title="Vercel" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/render.svg" alt="Render" title="Render" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/supabase.svg" alt="Supabase" title="Supabase" width="42" height="42" />
+  <br/>
+  <sub>Docker · Docker Compose · Git · GitHub · CI/CD · Vercel · Render · Supabase</sub>
+</p>
+
+**AI tools & integration**
+
+<p>
+  <img src="./assets/icons/claudecode.svg" alt="Claude Code" title="Claude Code" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/codex.svg" alt="Codex" title="Codex" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/cursor.svg" alt="Cursor" title="Cursor" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/vercelaisdk.svg" alt="Vercel AI SDK" title="Vercel AI SDK" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/googlegemini.svg" alt="Google Gemini" title="Google Gemini" width="42" height="42" />
+  <br/>
+  <sub>Claude Code · Codex · Cursor · Vercel AI SDK · Google Gemini</sub>
+</p>
+
+**Integrations, design & monitoring**
+
+<p>
+  <img src="./assets/icons/googlemaps.svg" alt="Google Maps" title="Google Maps" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/stripe.svg" alt="Stripe" title="Stripe" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/sentry.svg" alt="Sentry" title="Sentry" width="42" height="42" />
+  <br/>
+  <sub>Google Maps · Stripe · Figma · Sentry</sub>
+</p>
+
+**APIs & web capabilities**
+
+<p>
+  <img src="./assets/icons/restapi.svg" alt="REST APIs" title="REST APIs" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/security.svg" alt="Authentication and Role-Based Access Control" title="Authentication and Role-Based Access Control" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/pwa.svg" alt="Progressive Web Apps" title="Progressive Web Apps" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/webpush.svg" alt="Web Push notifications" title="Web Push notifications" width="42" height="42" />&nbsp;&nbsp;
+  <img src="./assets/icons/cron.svg" alt="Cron jobs" title="Cron jobs" width="42" height="42" />
+  <br/>
+  <sub>REST APIs · Authentication · Role-Based Access Control (RBAC) · Progressive Web Apps (PWA) · Web Push notifications · Cron jobs</sub>
+</p>
+
+**Spoken languages:** Arabic (Native) · English (Professional)
 
 ### 🛠️ Selected projects
 

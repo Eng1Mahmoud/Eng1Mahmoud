@@ -1,5 +1,9 @@
 # Asset credits
 
+Additional monochrome brand icons (Pinia, TanStack, React Hook Form, Zod, Stripe, Render, Google Maps, Google Gemini, and PWA) are from [Simple Icons](https://github.com/simple-icons/simple-icons). See SIMPLE-ICONS-LICENSE.md and ZOD-LICENSE.txt for their licenses. Brand marks remain the property of their owners. TanStack is rendered in dark ink for legibility.
+
+CI/CD, REST API, security, notification, and cron icons are original generic illustrations. The Vercel mark identifies the Vercel AI SDK; the Docker mark represents Docker and Docker Compose. A shared TanStack mark represents Query and Table; a shared Prisma mark represents Prisma and Prisma Migrate.
+
 `developer-workspace.svg` is an original illustration created for Mahmoud Mohamed's profile.
 
 Technology icons in `icons/` are from [Devicon](https://github.com/devicons/devicon), used under its MIT license. Brand marks belong to their respective owners.
